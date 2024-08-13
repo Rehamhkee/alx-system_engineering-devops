@@ -20,8 +20,3 @@ def number_of_subscribers(subreddit):
         return req.json().get('data').get('subscribers', 0)
     except Exception as e:
         return 0
-
-
-if __name__ == "__main__":
-    pass
-
