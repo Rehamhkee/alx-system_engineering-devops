@@ -1,4 +1,5 @@
-    on that queries the Reddit API and prints the titles
+#!/usr/bin/python3
+"""function that queries the Reddit API and prints the titles
 of the first 10 hot posts listed for a given subreddit."""
 
 
@@ -20,4 +21,4 @@ def top_ten(subreddit):
         else:
             print("None")
     except Exception:
-        print("None")int(c.get("data").get("title")) for c in results.get("children")]
+        print("None")
