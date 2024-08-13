@@ -1,4 +1,6 @@
-n
+#!/usr/bin/python3
+"""
+100-main
 """
 import sys
 
