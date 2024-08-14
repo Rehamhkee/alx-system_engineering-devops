@@ -1,11 +1,1 @@
-+---[RSA 3072]----+
-|    .oo...=.  .  |
-|   o ..  o =o+   |
-|    = . o oo*.   |
-|   + + o .E=.+   |
-|    o . S=oo+ o  |
-|        .o.. +   |
-|        . =o+ .  |
-|         =.*+    |
-|          ==+.   |
-+----[SHA256]-----+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCum4B/Hr49AlsWLOOgUmlFrDYpF3CZNmy8IPYWvQs65Csj4tfnY5RN8H1QmqRW6ppR520WzGNKG+xg6WDrlKuK7eypCOpNjPHveIY7Fy0L2m924I2WQ1v/8MSuJy5YMdE3cZuA4uiUwwzdy1bWAPVc/TJVGVXwz93xsmDklFFU4fxzMWL/rQwKeIgNt1WdUjCVwvX5Ei0MXnx+/bC1y9uKZ7YFj1ia4vwd+IW5G+swtScqsTvWYA/1P16OaVz0LS8E7t7DNeiBT+sNcPNxXAu5+U3SYYYwRRpTFJJVTgNZL9Yo2/9XZ2ABjhlc2NlGe1AozvZqzFLYDCU/9fA4z/rbhaD65HgBmi2rplp29UDHN4hlphcUIBG+z3+iVNctGV/n85kMHCJU1BWsW0F/U+sbre6h/FyHPu64rL+O/d8yRpYCHz+UyI1rmFlbHjIfgGycsn3DMPlj2pU0BA90tFK54J/zcrLbGGfQ8qYEdWQoV9qAQUiTixToICdIyzR6TwE= root@5b8ac0502281
